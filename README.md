@@ -91,7 +91,7 @@ Special thanks to the open-source community for the tools used in this project.
 💬 Contact
 For any inquiries, suggestions, or issues, feel free to reach out:
 
-Email: [your-email@example.com]
+Email: [pranavzagade15@gmail.com]
 GitHub Issues: [GitHub Repository Issues Link]
 📥 Ready to explore algorithm performance?
 Clone the repository and start analyzing your favorite algorithms today!
