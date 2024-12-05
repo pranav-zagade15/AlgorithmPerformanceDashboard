@@ -1,6 +1,4 @@
-Here’s a simpler and more concise version for your README, while still keeping it clear and professional:
 
----
 
 # Algorithm Performance Dashboard
 
@@ -79,9 +77,6 @@ MIT License. Feel free to use and modify.
 
 ## Contact
 For questions or feedback, reach out at:  
-Email: [your-email@example.com]  
-GitHub Issues: [Link to Issues]
+Email: [pranavzagade15@gmail.com]  
 
----
 
-This version is simple, easy to read, and still provides all the necessary information about the project. Let me know if you need further changes!
